@@ -1,6 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile!!)](https://git.io/typing-svg)
 
-<h2 data-importer="text" align="center">Hi 👋! My name is Alex and I'm a Web Developer, from Brazil.</h2>
+<h2 data-importer="text" align="center">Hi there! I'm Alex (a.k.a. AlexKohi) 👋</h2>
+
+###
+
+### ☕ About Me
+
+I'm a **Computer Science** student from Brazil on a journey to become a **Software Engineer**. I believe in learning by doing, working hard, and building a strong foundation to solve real-world problems.
+
+- 🎯 **My Goal:** Secure my first tech internship where I can learn from experienced developers and contribute hands-on.
+- 💻 **Current Focus:** I have a solid logical foundation in **C** (my main language right now) and I'm currently taking a comprehensive course in **Web Development** to expand my skills.
+- 🎓 **Academics:** In college, I'm building my theoretical base through subjects like Object-Oriented Programming and Compilers.
+- 🎮 **Beyond Code:** I'm always studying English and Japanese. When I'm offline, you can find me playing MMO or practicing the keyboard.
+
+Let's connect! I'm always open to talking about tech, games, or new opportunities.
 
 ###
 
